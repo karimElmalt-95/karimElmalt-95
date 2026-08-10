@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Karim Mohamed 👋
 
-<!--
-**karimElmalt-95/karimElmalt-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Computer Science Student at Arab Open University (AOU) 🎓  
+Software Testing Trainee (DEPI) | Front-End Developer | Cyber Security Enthusiast 🛡️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Computer Science Senior Student at AOU.
+- 🧪 Passionate about **Software Quality Assurance (QA)** and ensuring seamless user experiences.
+- 💻 Experienced in **Front-End Development** with Angular & Modern Web Technologies.
+- 🛡️ Knowledgeable in **Cyber Threat Management** & Vulnerability Assessment certified by Cisco.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Testing & QA:** Test Cases Execution, Bug Reporting, Functional Testing, Quality Assurance.
+- **Front-End:** Angular, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Sass, jQuery.
+- **Programming Languages:** JavaScript, Python, Java.
+- **Tools & Platforms:** Git, GitHub, VS Code, Cisco Packet Tracer.
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [Karim Mohamed](https://www.linkedin.com/in/karimelmalt/)
+- **Email:** karimelmalt9@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimElmalt-95&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimElmalt-95&layout=compact&theme=radical)
